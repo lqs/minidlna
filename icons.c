@@ -18,7 +18,7 @@
  * along with MiniDLNA. If not, see <http://www.gnu.org/licenses/>.
  */
 
-#define USE_CUSTOM_ICON true
+/* #define USE_CUSTOM_ICON true */
 
 #ifdef USE_CUSTOM_ICON
     #include "icons_custom.c"
